@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Green.Panda.Api.props" />
+</Project>

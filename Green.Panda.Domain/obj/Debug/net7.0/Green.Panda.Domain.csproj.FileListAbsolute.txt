@@ -1,0 +1,11 @@
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/bin/Debug/net7.0/Green.Panda.Domain.deps.json
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/bin/Debug/net7.0/Green.Panda.Domain.dll
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/bin/Debug/net7.0/Green.Panda.Domain.pdb
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.AssemblyInfoInputs.cache
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.AssemblyInfo.cs
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.csproj.CoreCompileInputs.cache
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.dll
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/refint/Green.Panda.Domain.dll
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/Green.Panda.Domain.pdb
+/Users/andydiamond/GreenPandaAPI/Green.Panda.Domain/obj/Debug/net7.0/ref/Green.Panda.Domain.dll
